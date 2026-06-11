@@ -11,9 +11,7 @@ import {
   Building2, 
   LineChart, 
   GraduationCap, 
-  Trophy,
-  BookOpen,
-  MonitorPlay
+  Trophy
 } from 'lucide-react';
 import { useUserStore } from '../../stores/useUserStore';
 
