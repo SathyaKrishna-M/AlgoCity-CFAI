@@ -1,0 +1,795 @@
+{
+  "nodes": [
+    {
+      "id": "c",
+      "x": 444.899169921875,
+      "y": 466.3398742675781,
+      "label": "Downtown Core",
+      "type": "hub"
+    },
+    {
+      "id": "o_n",
+      "x": 352.9244689941406,
+      "y": 8.303611755371094,
+      "label": "North Station",
+      "type": "transport"
+    },
+    {
+      "id": "o_e",
+      "x": 855.3502807617188,
+      "y": 451.2122497558594,
+      "label": "East Terminal",
+      "type": "transport"
+    },
+    {
+      "id": "o_s",
+      "x": 501.7619323730469,
+      "y": 708.169921875,
+      "label": "Industrial Park",
+      "type": "logistics"
+    },
+    {
+      "id": "o_w",
+      "x": 106.21299743652344,
+      "y": 369.0841979980469,
+      "label": "West Terminal",
+      "type": "transport"
+    },
+    {
+      "id": "o_ne",
+      "x": 875.0784912109375,
+      "y": 15.215787887573242,
+      "label": "Northeast Hospital",
+      "type": "hospital"
+    },
+    {
+      "id": "o_nw",
+      "x": 242.91668701171875,
+      "y": 280.6767578125,
+      "label": "University District",
+      "type": "residential"
+    },
+    {
+      "id": "o_se",
+      "x": 768.6246948242188,
+      "y": 650.5142822265625,
+      "label": "Tech Park",
+      "type": "commercial"
+    },
+    {
+      "id": "o_sw",
+      "x": 232.01824951171875,
+      "y": 570.2613525390625,
+      "label": "Port Logistics",
+      "type": "logistics"
+    },
+    {
+      "id": "n_er7ledip7",
+      "x": 138.71640014648438,
+      "y": 207.62371826171875,
+      "label": "New Inter.",
+      "type": "intersection"
+    },
+    {
+      "id": "n_d9ai0y8b7",
+      "x": 278.631103515625,
+      "y": 143.21017456054688,
+      "label": "New Inter.",
+      "type": "intersection"
+    },
+    {
+      "id": "n_s840m0mj4",
+      "x": 315.9925231933594,
+      "y": 215.0828094482422,
+      "label": "New Inter.",
+      "type": "intersection"
+    },
+    {
+      "id": "n_wfpwguh5e",
+      "x": 278.5237731933594,
+      "y": -27.187782287597656,
+      "label": "New Inter.",
+      "type": "intersection"
+    },
+    {
+      "id": "n_dfhyar9g2",
+      "x": 219.17259216308594,
+      "y": 364.2386474609375,
+      "label": "New Inter.",
+      "type": "intersection"
+    },
+    {
+      "id": "n_3zg1q69a5",
+      "x": 448.0281982421875,
+      "y": 707.6570434570312,
+      "label": "New Inter.",
+      "type": "intersection"
+    },
+    {
+      "id": "n_we8387yzp",
+      "x": 375.1108093261719,
+      "y": 137.72402954101562,
+      "label": "New Inter.",
+      "type": "intersection"
+    },
+    {
+      "id": "n_z98yqfjcw",
+      "x": 587.8922729492188,
+      "y": 30.638887405395508,
+      "label": "New Inter.",
+      "type": "intersection"
+    },
+    {
+      "id": "n_ricntsg7a",
+      "x": 762.200439453125,
+      "y": -32.00109100341797,
+      "label": "New Inter.",
+      "type": "intersection"
+    },
+    {
+      "id": "n_6kxmnvs48",
+      "x": 338.7626953125,
+      "y": 365.7072448730469,
+      "label": "New Inter.",
+      "type": "intersection"
+    },
+    {
+      "id": "n_2t9dk5jwa",
+      "x": 213.01602172851562,
+      "y": 596.7896118164062,
+      "label": "New Inter.",
+      "type": "intersection"
+    },
+    {
+      "id": "n_r9rmnvurx",
+      "x": 312.08441162109375,
+      "y": 665.1718139648438,
+      "label": "New Inter.",
+      "type": "intersection"
+    },
+    {
+      "id": "n_ys72dby7n",
+      "x": 341.42669677734375,
+      "y": 579.1654663085938,
+      "label": "New Inter.",
+      "type": "intersection"
+    },
+    {
+      "id": "n_7ni545yo0",
+      "x": 444.9713439941406,
+      "y": 592.9122924804688,
+      "label": "New Inter.",
+      "type": "intersection"
+    },
+    {
+      "id": "n_6sb6f720g",
+      "x": 735.689697265625,
+      "y": 652.1265258789062,
+      "label": "New Inter.",
+      "type": "intersection"
+    },
+    {
+      "id": "n_m9wpri1vo",
+      "x": 734.0634155273438,
+      "y": 582.1969604492188,
+      "label": "New Inter.",
+      "type": "intersection"
+    },
+    {
+      "id": "n_qx8k9qzmq",
+      "x": 769.5160522460938,
+      "y": 576.6676025390625,
+      "label": "New Inter.",
+      "type": "intersection"
+    },
+    {
+      "id": "n_6tnpfpija",
+      "x": 770.4918212890625,
+      "y": 501.5339660644531,
+      "label": "New Inter.",
+      "type": "intersection"
+    },
+    {
+      "id": "n_texa4kpk3",
+      "x": 816.3526000976562,
+      "y": 516.17041015625,
+      "label": "New Inter.",
+      "type": "intersection"
+    },
+    {
+      "id": "n_ssx3un11v",
+      "x": 555.4934692382812,
+      "y": 593.7932739257812,
+      "label": "New Inter.",
+      "type": "intersection"
+    },
+    {
+      "id": "n_f62umhjdb",
+      "x": 644.345703125,
+      "y": 593.7932739257812,
+      "label": "New Inter.",
+      "type": "intersection"
+    },
+    {
+      "id": "n_zo5qlrv55",
+      "x": 933.234375,
+      "y": 334.8307189941406,
+      "label": "New Inter.",
+      "type": "intersection"
+    },
+    {
+      "id": "n_7sof29y3c",
+      "x": 974.3442993164062,
+      "y": 210.343017578125,
+      "label": "New Inter.",
+      "type": "intersection"
+    },
+    {
+      "id": "n_u5xeyiynh",
+      "x": 878.0986938476562,
+      "y": 55.413063049316406,
+      "label": "New Inter.",
+      "type": "intersection"
+    },
+    {
+      "id": "n_025gagjus",
+      "x": 993.197021484375,
+      "y": 96.27755737304688,
+      "label": "New Inter.",
+      "type": "intersection"
+    },
+    {
+      "id": "n_m1tq2s845",
+      "x": 739.391357421875,
+      "y": 50.35410690307617,
+      "label": "New Inter.",
+      "type": "intersection"
+    },
+    {
+      "id": "n_34adncqjm",
+      "x": 670.0059204101562,
+      "y": 499.61474609375,
+      "label": "New Inter.",
+      "type": "intersection"
+    },
+    {
+      "id": "n_caablfpqi",
+      "x": 587.3449096679688,
+      "y": 455.2227478027344,
+      "label": "New Inter.",
+      "type": "intersection"
+    },
+    {
+      "id": "n_xpbtjmbtg",
+      "x": 509.7864685058594,
+      "y": 522.5761108398438,
+      "label": "New Inter.",
+      "type": "intersection"
+    },
+    {
+      "id": "n_pzzaf2k2d",
+      "x": 482.3819274902344,
+      "y": 462.36627197265625,
+      "label": "New Inter.",
+      "type": "intersection"
+    }
+  ],
+  "edges": [
+    {
+      "id": "e_yv1f2lyq0",
+      "source": "o_w",
+      "target": "n_er7ledip7",
+      "baseWeight": 5,
+      "weight": 5,
+      "isClosed": false,
+      "points": [
+        {
+          "x": 104.26469421386719,
+          "y": 275.3235168457031
+        }
+      ]
+    },
+    {
+      "id": "e_91y0xgydu",
+      "source": "n_er7ledip7",
+      "target": "o_nw",
+      "baseWeight": 5,
+      "weight": 5,
+      "isClosed": false,
+      "points": [
+        {
+          "x": 158.81285095214844,
+          "y": 245.1470489501953
+        }
+      ]
+    },
+    {
+      "id": "e_kvyokmlz9",
+      "source": "n_er7ledip7",
+      "target": "n_d9ai0y8b7",
+      "baseWeight": 5,
+      "weight": 5,
+      "isClosed": false,
+      "points": [
+        {
+          "x": 156.667724609375,
+          "y": 163.8013916015625
+        }
+      ]
+    },
+    {
+      "id": "e_jq8du6faa",
+      "source": "o_nw",
+      "target": "n_s840m0mj4",
+      "baseWeight": 5,
+      "weight": 5,
+      "isClosed": false,
+      "points": [
+        {
+          "x": 267.6055908203125,
+          "y": 238.5553741455078
+        }
+      ]
+    },
+    {
+      "id": "e_yob0l0h0o",
+      "source": "o_n",
+      "target": "n_wfpwguh5e",
+      "baseWeight": 5,
+      "weight": 5,
+      "isClosed": false,
+      "points": []
+    },
+    {
+      "id": "e_aqa4mkmys",
+      "source": "n_wfpwguh5e",
+      "target": "n_d9ai0y8b7",
+      "baseWeight": 5,
+      "weight": 5,
+      "isClosed": false,
+      "points": []
+    },
+    {
+      "id": "e_fg2btshpj",
+      "source": "n_s840m0mj4",
+      "target": "n_d9ai0y8b7",
+      "baseWeight": 5,
+      "weight": 5,
+      "isClosed": false,
+      "points": [
+        {
+          "x": 289.48492431640625,
+          "y": 179.4547576904297
+        }
+      ]
+    },
+    {
+      "id": "e_05grmm84f",
+      "source": "o_nw",
+      "target": "n_dfhyar9g2",
+      "baseWeight": 5,
+      "weight": 5,
+      "isClosed": false,
+      "points": [
+        {
+          "x": 218.2227020263672,
+          "y": 317.0935363769531
+        }
+      ]
+    },
+    {
+      "id": "e_70q0pxweu",
+      "source": "o_s",
+      "target": "n_3zg1q69a5",
+      "baseWeight": 5,
+      "weight": 5,
+      "isClosed": false,
+      "points": []
+    },
+    {
+      "id": "e_1zjv7diwi",
+      "source": "o_n",
+      "target": "n_we8387yzp",
+      "baseWeight": 5,
+      "weight": 5,
+      "isClosed": false,
+      "points": [
+        {
+          "x": 384.5013122558594,
+          "y": 39.73424530029297
+        }
+      ]
+    },
+    {
+      "id": "e_ptu90gsrl",
+      "source": "n_we8387yzp",
+      "target": "n_s840m0mj4",
+      "baseWeight": 5,
+      "weight": 5,
+      "isClosed": false,
+      "points": [
+        {
+          "x": 384.529296875,
+          "y": 187.1810760498047
+        }
+      ]
+    },
+    {
+      "id": "e_qojh553zi",
+      "source": "o_n",
+      "target": "n_z98yqfjcw",
+      "baseWeight": 5,
+      "weight": 5,
+      "isClosed": false,
+      "points": [
+        {
+          "x": 482.9980773925781,
+          "y": -7.908783912658691
+        }
+      ]
+    },
+    {
+      "id": "e_nnqg2tnld",
+      "source": "n_z98yqfjcw",
+      "target": "n_ricntsg7a",
+      "baseWeight": 5,
+      "weight": 5,
+      "isClosed": false,
+      "points": [
+        {
+          "x": 636.9205322265625,
+          "y": -57.94664001464844
+        }
+      ]
+    },
+    {
+      "id": "e_ai516vowv",
+      "source": "c",
+      "target": "n_6kxmnvs48",
+      "baseWeight": 5,
+      "weight": 5,
+      "isClosed": false,
+      "points": [
+        {
+          "x": 343.9517822265625,
+          "y": 465.782958984375
+        }
+      ]
+    },
+    {
+      "id": "e_1b9omui3x",
+      "source": "o_w",
+      "target": "n_dfhyar9g2",
+      "baseWeight": 5,
+      "weight": 5,
+      "isClosed": false,
+      "points": [
+        {
+          "x": 168.26332092285156,
+          "y": 356.0703430175781
+        }
+      ]
+    },
+    {
+      "id": "e_ucvoittf8",
+      "source": "n_dfhyar9g2",
+      "target": "n_6kxmnvs48",
+      "baseWeight": 5,
+      "weight": 5,
+      "isClosed": false,
+      "points": []
+    },
+    {
+      "id": "e_5iql34g0f",
+      "source": "o_sw",
+      "target": "n_2t9dk5jwa",
+      "baseWeight": 5,
+      "weight": 5,
+      "isClosed": false,
+      "points": []
+    },
+    {
+      "id": "e_3sv72gcbz",
+      "source": "o_w",
+      "target": "n_2t9dk5jwa",
+      "baseWeight": 5,
+      "weight": 5,
+      "isClosed": false,
+      "points": [
+        {
+          "x": 167.89791870117188,
+          "y": 536.1621704101562
+        }
+      ]
+    },
+    {
+      "id": "e_q3qhegp0t",
+      "source": "n_2t9dk5jwa",
+      "target": "n_r9rmnvurx",
+      "baseWeight": 5,
+      "weight": 5,
+      "isClosed": false,
+      "points": [
+        {
+          "x": 250.7519989013672,
+          "y": 637.325439453125
+        }
+      ]
+    },
+    {
+      "id": "e_fp5bge85b",
+      "source": "c",
+      "target": "n_7ni545yo0",
+      "baseWeight": 5,
+      "weight": 5,
+      "isClosed": false,
+      "points": []
+    },
+    {
+      "id": "e_t5an0al4w",
+      "source": "n_7ni545yo0",
+      "target": "n_3zg1q69a5",
+      "baseWeight": 5,
+      "weight": 5,
+      "isClosed": false,
+      "points": []
+    },
+    {
+      "id": "e_7ycx9spnv",
+      "source": "n_r9rmnvurx",
+      "target": "n_ys72dby7n",
+      "baseWeight": 5,
+      "weight": 5,
+      "isClosed": false,
+      "points": [
+        {
+          "x": 312.17041015625,
+          "y": 616.5288696289062
+        }
+      ]
+    },
+    {
+      "id": "e_tc978qesa",
+      "source": "n_ys72dby7n",
+      "target": "n_7ni545yo0",
+      "baseWeight": 5,
+      "weight": 5,
+      "isClosed": false,
+      "points": [
+        {
+          "x": 365.043212890625,
+          "y": 596.7897338867188
+        }
+      ]
+    },
+    {
+      "id": "e_97s3zw5gw",
+      "source": "o_se",
+      "target": "n_6sb6f720g",
+      "baseWeight": 5,
+      "weight": 5,
+      "isClosed": false,
+      "points": []
+    },
+    {
+      "id": "e_vyvndllzq",
+      "source": "n_m9wpri1vo",
+      "target": "n_6sb6f720g",
+      "baseWeight": 5,
+      "weight": 5,
+      "isClosed": false,
+      "points": []
+    },
+    {
+      "id": "e_ko4bbk0dq",
+      "source": "n_m9wpri1vo",
+      "target": "n_qx8k9qzmq",
+      "baseWeight": 5,
+      "weight": 5,
+      "isClosed": false,
+      "points": []
+    },
+    {
+      "id": "e_aol28y9k4",
+      "source": "n_6tnpfpija",
+      "target": "n_qx8k9qzmq",
+      "baseWeight": 5,
+      "weight": 5,
+      "isClosed": false,
+      "points": []
+    },
+    {
+      "id": "e_7byn3fcls",
+      "source": "n_6tnpfpija",
+      "target": "n_texa4kpk3",
+      "baseWeight": 5,
+      "weight": 5,
+      "isClosed": false,
+      "points": [
+        {
+          "x": 789.6818237304688,
+          "y": 502.8349914550781
+        }
+      ]
+    },
+    {
+      "id": "e_z0u9i5ucn",
+      "source": "o_e",
+      "target": "n_texa4kpk3",
+      "baseWeight": 5,
+      "weight": 5,
+      "isClosed": false,
+      "points": []
+    },
+    {
+      "id": "e_90729aj6j",
+      "source": "n_7ni545yo0",
+      "target": "n_ssx3un11v",
+      "baseWeight": 5,
+      "weight": 5,
+      "isClosed": false,
+      "points": []
+    },
+    {
+      "id": "e_60fo5cptm",
+      "source": "n_f62umhjdb",
+      "target": "n_ssx3un11v",
+      "baseWeight": 5,
+      "weight": 5,
+      "isClosed": false,
+      "points": []
+    },
+    {
+      "id": "e_7yjrbk4l6",
+      "source": "n_f62umhjdb",
+      "target": "n_m9wpri1vo",
+      "baseWeight": 5,
+      "weight": 5,
+      "isClosed": false,
+      "points": []
+    },
+    {
+      "id": "e_e4rd5646k",
+      "source": "o_e",
+      "target": "n_zo5qlrv55",
+      "baseWeight": 5,
+      "weight": 5,
+      "isClosed": false,
+      "points": []
+    },
+    {
+      "id": "e_4y8gbvtze",
+      "source": "n_zo5qlrv55",
+      "target": "n_7sof29y3c",
+      "baseWeight": 5,
+      "weight": 5,
+      "isClosed": false,
+      "points": [
+        {
+          "x": 926.56884765625,
+          "y": 268.8232727050781
+        }
+      ]
+    },
+    {
+      "id": "e_2b8oqp8cx",
+      "source": "o_ne",
+      "target": "n_u5xeyiynh",
+      "baseWeight": 5,
+      "weight": 5,
+      "isClosed": false,
+      "points": []
+    },
+    {
+      "id": "e_32fmw4mpi",
+      "source": "n_u5xeyiynh",
+      "target": "n_025gagjus",
+      "baseWeight": 5,
+      "weight": 5,
+      "isClosed": false,
+      "points": [
+        {
+          "x": 929.7941284179688,
+          "y": 47.48094940185547
+        }
+      ]
+    },
+    {
+      "id": "e_2tddwkld0",
+      "source": "n_025gagjus",
+      "target": "n_7sof29y3c",
+      "baseWeight": 5,
+      "weight": 5,
+      "isClosed": false,
+      "points": [
+        {
+          "x": 1006.9474487304688,
+          "y": 153.60708618164062
+        }
+      ]
+    },
+    {
+      "id": "e_1skrj8g2f",
+      "source": "n_ricntsg7a",
+      "target": "n_m1tq2s845",
+      "baseWeight": 5,
+      "weight": 5,
+      "isClosed": false,
+      "points": [
+        {
+          "x": 757.52978515625,
+          "y": 7.784317970275879
+        }
+      ]
+    },
+    {
+      "id": "e_8da51uzyy",
+      "source": "n_m1tq2s845",
+      "target": "n_u5xeyiynh",
+      "baseWeight": 5,
+      "weight": 5,
+      "isClosed": false,
+      "points": [
+        {
+          "x": 777.05859375,
+          "y": 58.127716064453125
+        }
+      ]
+    },
+    {
+      "id": "e_bvejqnp57",
+      "source": "n_34adncqjm",
+      "target": "n_6tnpfpija",
+      "baseWeight": 5,
+      "weight": 5,
+      "isClosed": false,
+      "points": [
+        {
+          "x": 721.0311279296875,
+          "y": 488.38922119140625
+        }
+      ]
+    },
+    {
+      "id": "e_7zbhfi8e1",
+      "source": "n_34adncqjm",
+      "target": "n_caablfpqi",
+      "baseWeight": 5,
+      "weight": 5,
+      "isClosed": false,
+      "points": []
+    },
+    {
+      "id": "e_eq3m0z10f",
+      "source": "c",
+      "target": "n_pzzaf2k2d",
+      "baseWeight": 5,
+      "weight": 5,
+      "isClosed": false,
+      "points": []
+    },
+    {
+      "id": "e_53s3c296w",
+      "source": "n_caablfpqi",
+      "target": "n_xpbtjmbtg",
+      "baseWeight": 5,
+      "weight": 5,
+      "isClosed": false,
+      "points": [
+        {
+          "x": 563.7914428710938,
+          "y": 499.61474609375
+        }
+      ]
+    },
+    {
+      "id": "e_21aqsykdn",
+      "source": "n_xpbtjmbtg",
+      "target": "n_pzzaf2k2d",
+      "baseWeight": 5,
+      "weight": 5,
+      "isClosed": false,
+      "points": []
+    }
+  ]
+}
