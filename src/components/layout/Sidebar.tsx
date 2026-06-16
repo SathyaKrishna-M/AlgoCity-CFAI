@@ -6,12 +6,10 @@ import {
   Ambulance, 
   Train, 
   Package, 
-  Users, 
-  Database, 
+  Database,
   Building2, 
-  LineChart, 
-  GraduationCap, 
-  Trophy
+  LineChart,
+  Users
 } from 'lucide-react';
 import { useUserStore } from '../../stores/useUserStore';
 
@@ -21,11 +19,9 @@ const navItems = [
   { to: '/dispatch', icon: Ambulance, label: 'Emergency Dispatch' },
   { to: '/transport', icon: Train, label: 'Transport Network' },
   { to: '/logistics', icon: Package, label: 'Logistics Hub' },
-  { to: '/service', icon: Users, label: 'Citizen Services' },
   { to: '/records', icon: Database, label: 'Records Database' },
+  { to: '/service', icon: Users, label: 'Citizen Services' },
   { to: '/analytics', icon: LineChart, label: 'Analytics Center' },
-  { to: '/learn', icon: GraduationCap, label: 'Learning Hub' },
-  { to: '/challenges', icon: Trophy, label: 'Challenge Mode' },
   { to: '/presentation', icon: LayoutDashboard, label: 'Architecture & Presentation' },
 ];
 

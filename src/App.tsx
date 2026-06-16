@@ -9,8 +9,6 @@ import { LogisticsHub } from './pages/LogisticsHub';
 import { ServiceCenter } from './pages/ServiceCenter';
 import { RecordsDatabase } from './pages/RecordsDatabase';
 import { Analytics } from './pages/Analytics';
-import { LearningHub } from './pages/LearningHub';
-import { ChallengeMode } from './pages/ChallengeMode';
 import { PresentationDashboard } from './pages/Presentation';
 
 function App() {
@@ -27,8 +25,6 @@ function App() {
           <Route path="/records" element={<RecordsDatabase />} />
           <Route path="/planner" element={<Dashboard />} />
           <Route path="/analytics" element={<Analytics />} />
-          <Route path="/learn" element={<LearningHub />} />
-          <Route path="/challenges" element={<ChallengeMode />} />
           <Route path="/presentation" element={<PresentationDashboard />} />
         </Routes>
       </Layout>
