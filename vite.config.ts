@@ -7,5 +7,5 @@ export default defineConfig({
     tailwindcss(),
     react()
   ],
-  base: '/AlgoCity-CFAI/'
+  base: process.env.VERCEL ? '/' : '/AlgoCity-CFAI/'
 })
